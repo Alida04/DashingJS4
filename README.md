@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/Alida04/DashingJS4/badge.svg?branch=master)](https://coveralls.io/github/Alida04/DashingJS4?branch=master)
+[![Build Status](https://travis-ci.org/Alida04/DashingJS4.svg?branch=master)](https://travis-ci.org/Alida04/DashingJS4)
+
 # DashingJS4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
